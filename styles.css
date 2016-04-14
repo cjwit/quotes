@@ -1,0 +1,38 @@
+body {
+	padding-top: 100px;
+	height: 100%;
+	padding-bottom: 100px;
+}
+
+.purple {
+	background-color: #552B72;
+	color: #552B72;
+}
+
+.red {
+	background-color: #4d0015;
+	color: #4d0015;
+}
+
+.blue {
+	background-color: #2e4372;
+	color: #2e4372;
+}
+
+.green {
+	background-color: #277650;
+	color: #277650;
+}
+
+.white {
+	background-color: white;
+	border-radius: 4px;
+}
+
+#buttons {
+	padding: 20px;
+}
+
+span, button {
+	display: inline-block;
+}
